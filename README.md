@@ -41,5 +41,25 @@ if (sale) {
      }
   ```
   
+  Comparison Operators
   
+  Using let, create a variable named hungerLvl and set it equal to 7.
+  ```js
+  let hungerLvl = 7;
+  ```
+  
+ Write an if...else statement using a comparison operator. The condition should check if hungerLvl is greater than 7. If true, console.log() 'Time to eat!'. Otherwise, console.log() 'We can eat later!'.
+ 
+ ```js
+ let hungerLvl = 7;
+ if (hungerLvl > 7) {
+  console.log('Time to eat!');
+ } else {
+  console.log('We can eat later!);
+ };
+ ```
+ 
+ Logical Operators
+ 
+ 
   
