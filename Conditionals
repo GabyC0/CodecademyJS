@@ -3,5 +3,7 @@ Conditionals
 Using the let keyword declare a variable named sale and assign it to true:
 
 ```js
+
 let sale = true;
+
 ```
